@@ -8,6 +8,5 @@ file_location: /coursemedia/18-312-algebraic-combinatorics-spring-2009/194260e02
 file_type: application/pdf
 layout: pdf
 title: 'Lecture Notes #10 Addendum'
-type: course
 uid: 194260e0-2a2b-1707-0517-90bfc097bd9d
 ---

@@ -8,7 +8,6 @@ menu:
     name: Assignments
     weight: 40
 title: Assignments
-type: course
 uid: 666aaf60-e52b-e89c-0025-5182013deb78
 ---
 

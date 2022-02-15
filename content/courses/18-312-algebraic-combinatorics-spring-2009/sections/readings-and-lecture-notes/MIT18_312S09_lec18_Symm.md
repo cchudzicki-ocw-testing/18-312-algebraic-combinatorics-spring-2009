@@ -9,6 +9,5 @@ file_location: /coursemedia/18-312-algebraic-combinatorics-spring-2009/9c1dd841e
 file_type: application/pdf
 layout: pdf
 title: 'Lecture Notes #18-19 Addendum'
-type: course
 uid: 9c1dd841-e45e-92a5-26b1-85dc9184fa53
 ---

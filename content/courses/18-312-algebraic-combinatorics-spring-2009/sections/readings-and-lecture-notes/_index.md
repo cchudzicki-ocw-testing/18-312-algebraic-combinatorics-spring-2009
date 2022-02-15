@@ -8,7 +8,6 @@ menu:
     name: Readings and Lecture Notes
     weight: 30
 title: Readings and Lecture Notes
-type: course
 uid: a8103a5e-e84b-e926-a7d3-168f293776c8
 ---
 

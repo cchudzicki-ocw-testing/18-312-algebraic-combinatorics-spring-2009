@@ -8,6 +8,5 @@ file_location: /coursemedia/18-312-algebraic-combinatorics-spring-2009/7915e04e2
 file_type: application/pdf
 layout: pdf
 title: 'Lecture Notes #23-24 Addendum'
-type: course
 uid: 7915e04e-2ab3-84d4-0cd7-7fb2647678cb
 ---

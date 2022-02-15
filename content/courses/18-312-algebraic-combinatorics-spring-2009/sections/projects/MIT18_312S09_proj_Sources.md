@@ -8,6 +8,5 @@ file_location: /coursemedia/18-312-algebraic-combinatorics-spring-2009/a3270c7d9
 file_type: application/pdf
 layout: pdf
 title: Acknowledging Sources in Mathematics Papers
-type: course
 uid: a3270c7d-99a0-fb20-f1cb-fecc0296de53
 ---

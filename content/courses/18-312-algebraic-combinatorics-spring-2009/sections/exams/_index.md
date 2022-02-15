@@ -8,7 +8,6 @@ menu:
     name: Exams
     weight: 50
 title: Exams
-type: course
 uid: 55ce3fb3-59a7-c4d7-aafd-ecbe863c12c0
 ---
 
