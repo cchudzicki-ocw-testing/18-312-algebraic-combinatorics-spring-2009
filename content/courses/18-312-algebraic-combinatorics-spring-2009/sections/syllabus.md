@@ -45,7 +45,7 @@ Recommended Texts
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521789877/ref=nosim/mitopencourse-20) ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
 
 "Topics in Algebraic Combinatorics." by Richard Stanley  
-Notes available online (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).
+Notes available online ([PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).
 
 Requirements
 ------------

@@ -18,7 +18,7 @@ A research paper is due at the end of the term. It should be on a topic related 
 
 Reference on acknowledging sources ([PDF]({{% getpage "courses/18-312-algebraic-combinatorics-spring-2009/sections/projects/MIT18_312S09_proj_Sources" %}}))
 
-Reference on writing a mathematical paper (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf))
+Reference on writing a mathematical paper ([PDF](http://www.ams.jhu.edu/~ers/learn-latex/paper.pdf))
 
 [Samples of student papers](http://www-math.mit.edu/phase2/UJM/vol1/index.html) from the MIT Undergraduate _Journal of Mathematics_, June 1999
 
@@ -34,7 +34,7 @@ Below is a list of some possible topics, with references at the end. The topics 
 5.  Mixing Times for Random Walks and the Cheeger Inequality. Some links from Fan Chung Graham's [Web site](http://www.math.ucsd.edu/~fan).
 6.  Describe the theory of a special kind of Posets. Numerous possibilities, some of which are Binomial Posets, Distributive Lattices, Face Posets of polytopes, or Posets arising from hyperplane arrangements. A good starting point is section 3 of \[[Sta99](#Sta99)\]. Also [see](http://math.mit.edu/~rstan/arrangements/arr.html) Richard Stanley's lecture notes from Park City 2004.
 7.  Partition identities, such as the Rogers-Ramanujan identities. Some basic information appears in section 2 of \[[BS](#BS)\]. A more extensive reference is \[[An76](#An76)\].
-8.  There are various proofs of the Hook Length Formula in the literature. One possible project would be to study one of these in depth, another would be to compare and contrast two different proofs. Some of the proofs include the probabilistic approach of Greene-Nijenhuis-Wilf \[[GNW79](#GNW79)\] mentioned in class, a bijective proof of Novelli-Pak-Stoyanovskii \[[NPS97](#NPS97)\], or a recent algebraic proof by Bandlow. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v15i1r45/pdf))
+8.  There are various proofs of the Hook Length Formula in the literature. One possible project would be to study one of these in depth, another would be to compare and contrast two different proofs. Some of the proofs include the probabilistic approach of Greene-Nijenhuis-Wilf \[[GNW79](#GNW79)\] mentioned in class, a bijective proof of Novelli-Pak-Stoyanovskii \[[NPS97](#NPS97)\], or a recent algebraic proof by Bandlow. ([PDF](http://www.combinatorics.org/ojs/index.php/eljc/article/view/v15i1r45/pdf))
 9.  The full RSK algorithm for semi-standard Young tableaux, including proofs of the Symmetry Theory and other applications. See chapter 7 of \[[Sta99](#Sta99)\], chapter 3 of \[[Sag01](#Sag01)\], or part I of \[[F97](#F97)\].
 10.  Variations of RSK and including RSK applied to Oscillating Tableaux ([see](http://www.mat.univie.ac.at/~kratt/artikel/oscill.html) for example by C. Krattenthaler). Another possibility is connection to balanced tableaux, see the next topic.
 11.  Reduced decompositions of permutations. These concern expressing a permutation as a product of a minimal number of adjacent transpositions (i, i +1). This topic also is related to variations of RSK (balanced tableaux) and applications of the nil Coxeter algebra \[[FS94](#FS94)\].
@@ -67,7 +67,7 @@ Reference List
 
 \[{{< anchor "CDS95" >}}{{< /anchor >}}CDS95\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/3335004078/ref=nosim/mitopencourse-20) Cvetković, Dragoš M., Michael Doob, and Horst Sachs. _Spectra of Graphs: Theory and Application_. Heidelberg, Germany: Johann Ambrosius Barth Verlag, 1995. ISBN: 9783335004073.
 
-\[{{< anchor "BS" >}}{{< /anchor >}}BS\] = Bjorner, A., and R. Stanley. "A Combinatorial Miscellany." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://math.mit.edu/~rstan/papers/comb.pdf))
+\[{{< anchor "BS" >}}{{< /anchor >}}BS\] = Bjorner, A., and R. Stanley. "A Combinatorial Miscellany." ([PDF](http://math.mit.edu/~rstan/papers/comb.pdf))
 
 \[{{< anchor "deB64" >}}{{< /anchor >}}deB64\] = De Bruijn, N. C. _Polya's Theory of Counting in Applied Combinatorial Mathematics_. Edited by E. F. Beckenback. New York, NY: John Wiley and Sons, Inc., 1964, pp. 144-184.
 
@@ -79,7 +79,7 @@ Reference List
 
 \[{{< anchor "GV85" >}}{{< /anchor >}}GV85\] = Gessel, I., and G. Viennot. "Binomial Determinants, Paths, and Hook Length Formulae." _Advances in Mathematics_ 58, no. 3 (1985): 300-321.
 
-\[{{< anchor "GNW79" >}}{{< /anchor >}}GNW79\] = Greene, C., and A. Nijenhuis, and H. Wilf. "A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape. _Advances in Mathematics_ 31 (1979): 104-109. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.upenn.edu/~wilf/website/Probabilistic%20proof.pdf))
+\[{{< anchor "GNW79" >}}{{< /anchor >}}GNW79\] = Greene, C., and A. Nijenhuis, and H. Wilf. "A Probabilistic Proof of a Formula for the Number of Young Tableaux of a Given Shape. _Advances in Mathematics_ 31 (1979): 104-109. ([PDF](http://www.math.upenn.edu/~wilf/website/Probabilistic%20proof.pdf))
 
 \[{{< anchor "GR01" >}}{{< /anchor >}}GR01\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0387952411/ref=nosim/mitopencourse-20) Godsil, C. D., and Gordon Royle. _Algebraic Graph Theory_. Graduate texts in mathematics, 207. New York, NY: Springer, 2001. ISBN: 9780387952413.
 

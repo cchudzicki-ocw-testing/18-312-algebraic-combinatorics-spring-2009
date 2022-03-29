@@ -18,7 +18,7 @@ Readings are Assigned in the Recommended Texts:
 
 \[EC2\] = [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0521789877/ref=nosim/mitopencourse-20) ———. _Enumerative Combinatorics_. Vol. 2. Cambridge, UK: Cambridge University Press, 2001. ISBN: 9780521789875.
 
-\[TAC\] = "Topics in Algebraic Combinatorics." by Richard Stanley (Notes available online (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).)
+\[TAC\] = "Topics in Algebraic Combinatorics." by Richard Stanley (Notes available online ([PDF](http://www-math.mit.edu/~rstan/algcomb/algcomb.pdf)).)
 
 Supplemental lecture notes are provided for some of the lectures.
 
@@ -62,4 +62,4 @@ Supplemental lecture notes are provided for some of the lectures.
 | 34 | Pfaffians and matching enumeration |   |
 | 35 | Aztec diamonds |   |
 | 36 | Aztec diamonds II; Lattice path enumeration |   |
-| 37 | Lattice path enumeration II |   | Benjamin, A.T., and N. Cameron "Counting on Determinants" available online (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.math.hmc.edu/~benjamin/papers/monthly481-492.pdf))
+| 37 | Lattice path enumeration II |   | Benjamin, A.T., and N. Cameron "Counting on Determinants" available online ([PDF](http://www.math.hmc.edu/~benjamin/papers/monthly481-492.pdf))
